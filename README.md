@@ -1,5 +1,5 @@
 ## About
-Studying Computer Engineering at Concordia University.<br>
+Studying Computer Engineering at Concordia University.<br><br>
 Interested in programming and IoT.
 
 ## Stats
